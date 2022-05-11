@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/activity_main.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/cities_layout.xml" value="0.25" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/current_weather.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/forecast_weather.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/fragment_cos.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/fragment_current_weather.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/list_item.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/main_fragment.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/mateu/Desktop/6 semestr/PAM/MyWeatherApp2/app/src/main/res/layout/single_city.xml" value="0.24365942028985507" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
